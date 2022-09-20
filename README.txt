@@ -1,1 +1,2 @@
-This is my first React Native App
++ my first React Native App
++ Some labs 
